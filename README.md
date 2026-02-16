@@ -1,2 +1,0 @@
-# minorproject
-demo
